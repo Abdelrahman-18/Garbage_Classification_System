@@ -189,17 +189,4 @@ python app.py
 - Seaborn
 - Tkinter
 
----
 
-## 👨‍💻 Author
-
-**Abdelrahman Mohamed**
-
-- GitHub: https://github.com/YOUR_USERNAME
-- LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN
-
----
-
-## ⭐ Support
-
-If you like this project, consider giving it a ⭐ on GitHub.
