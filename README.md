@@ -126,7 +126,7 @@ This allows users to interact with the trained model without running notebook co
 <!-- Add project screenshots here -->
 
 <p align="center">
-  ADD IMAGE HERE
+  <img width="1126" height="912" alt="Image" src="https://github.com/user-attachments/assets/665920fb-4dd3-4ac9-bc9d-e10889e0b3c8" />
 </p>
 
 ---
@@ -174,7 +174,7 @@ jupyter notebook Garbage_Classifier.ipynb
 Run the GUI application:
 
 ```bash
-python app.py
+python GUI.py
 ```
 
 ---
